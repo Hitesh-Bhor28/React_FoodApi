@@ -1,0 +1,87 @@
+{
+  "statusCode": 0,
+  "data": {
+    "cards": [
+      {},
+      {},
+      {},
+      {},
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "info": {
+                        "id": "278323",
+                        "name": "Theobroma",
+                        "cloudinaryImageId": "abc123xyz",
+                        "locality": "Kalpataru Nagar",
+                        "areaName": "Nashik",
+                        "costForTwo": "₹400 for two",
+                        "cuisines": ["Bakery", "Desserts", "Snacks"],
+                        "avgRating": 4.6,
+                        "totalRatings": 2400,
+                        "deliveryTime": "30 mins"
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1",
+                              "name": "Chocolate Roll",
+                              "category": "Desserts",
+                              "description": "Soft chocolate roll filled with cream.",
+                              "imageId": "roll123",
+                              "price": 19900,
+                              "ratings": { "aggregatedRating": { "rating": "4.7" } }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2",
+                              "name": "Paneer Tikka Roll",
+                              "category": "Rolls",
+                              "description": "Grilled paneer wrapped in soft paratha.",
+                              "imageId": "paneerroll456",
+                              "price": 22900,
+                              "ratings": { "aggregatedRating": { "rating": "4.5" } }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3",
+                              "name": "Chicken Roll",
+                              "category": "Rolls",
+                              "description": "Juicy chicken with spicy mayo wrapped in roll.",
+                              "imageId": "chickenroll789",
+                              "price": 24900,
+                              "ratings": { "aggregatedRating": { "rating": "4.6" } }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "statusCode": 0,
+  "data": {
+    "cards": [
+      {},
+      {},
+      {},
+      {},
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "info": {
+                        "id": "104757",
+                        "name": "McDonald’s Shivaji Nagar",
+                        "cloudinaryImageId": "mcd_nashik_img",
+                        "locality": "Shivaji Nagar / Upnagar",
+                        "areaName": "Nashik",
+                        "costForTwo": "₹300 for two",
+                        "cuisines": ["Burgers", "Fast Food", "Beverages"],
+                        "avgRating": 4.2,
+                        "totalRatings": 1800,
+                        "sla": {
+                          "deliveryTime": 25,
+                          "lastMileTravel": 3.5,
+                          "slaString": "20-30 MINS"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Popular items",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104757_1",
+                              "name": "McAloo Tikki Burger",
+                              "category": "Burgers",
+                              "description": "Crispy potato patty with fresh veggies and sauce.",
+                              "imageId": "mcaloo_img",
+                              "price": 12900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "500+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104757_2",
+                              "name": "Chicken McGrill",
+                              "category": "Burgers",
+                              "description": "Grilled chicken breast with lettuce and mayo.",
+                              "imageId": "mcgrill_img",
+                              "price": 22900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "900+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104757_3",
+                              "name": "Veg Wrap",
+                              "category": "Wraps",
+                              "description": "Mixed veggies with sauce wrapped in tortilla.",
+                              "imageId": "veg_wrap_img",
+                              "price": 9900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "400+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104757_4",
+                              "name": "French Fries",
+                              "category": "Sides",
+                              "description": "Crispy salted fries.",
+                              "imageId": "fries_img",
+                              "price": 7900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "1200+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "104757_5",
+                              "name": "Coke 500ml",
+                              "category": "Beverages",
+                              "description": "Cold drink.",
+                              "imageId": "coke_img",
+                              "price": 4900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "1300+"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

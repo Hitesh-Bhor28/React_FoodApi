@@ -1,0 +1,146 @@
+{
+  "statusCode": 0,
+  "data": {
+    "cards": [
+      {},
+      {},
+      {},
+      {},
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "info": {
+                        "id": "70995",
+                        "name": "Burger King",
+                        "cloudinaryImageId": "burgerking_nashik_mock",
+                        "locality": "Patil Colony",
+                        "areaName": "Ramdas Colony, Nashik",
+                        "costForTwo": "₹350 for two",
+                        "cuisines": [
+                          "Burgers",
+                          "Fast Food",
+                          "Beverages"
+                        ],
+                        "avgRating": 4.2,
+                        "totalRatingsString": "5K+ ratings",
+                        "sla": {
+                          "deliveryTime": 28,
+                          "lastMileTravel": 3.8,
+                          "slaString": "25–30 MINS"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1",
+                              "name": "Whopper",
+                              "category": "Burgers",
+                              "description": "Signature flame-grilled beef patty with lettuce, tomato, and mayo.",
+                              "imageId": "mock_whopper_img",
+                              "price": 27900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "2.1K+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2",
+                              "name": "Veg Whopper",
+                              "category": "Burgers",
+                              "description": "Crispy veggie patty with fresh veggies and creamy mayo.",
+                              "imageId": "mock_veg_whopper_img",
+                              "price": 19900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "1.2K+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3",
+                              "name": "Classic Chicken Roll",
+                              "category": "Rolls",
+                              "description": "Soft wrap filled with spicy chicken and sauces.",
+                              "imageId": "mock_chicken_roll_img",
+                              "price": 14900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "890+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "4",
+                              "name": "Cheesy Fries",
+                              "category": "Sides",
+                              "description": "Crispy fries with melted cheese topping.",
+                              "imageId": "mock_cheesy_fries_img",
+                              "price": 9900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "3K+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5",
+                              "name": "Coke (500ml)",
+                              "category": "Beverages",
+                              "description": "Chilled Coke to refresh your meal.",
+                              "imageId": "mock_coke_img",
+                              "price": 4900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "2K+"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

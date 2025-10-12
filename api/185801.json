@@ -1,0 +1,232 @@
+{
+  "statusCode": 0,
+  "data": {
+    "cards": [
+      {},
+      {},
+      {},
+      {},
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "info": {
+                        "id": "185801",
+                        "name": "Faasos – Wraps, Rolls & Shawarma",
+                        "cloudinaryImageId": "faasos_nashik_img",
+                        "locality": "Hatte Nagar, Thatte Nagar",
+                        "areaName": "Nashik",
+                        "costForTwo": "₹300 for two",
+                        "cuisines": ["Wraps", "Rolls", "Shawarma"],
+                        "avgRating": 4.1,
+                        "totalRatings": 1500,
+                        "sla": {
+                          "deliveryTime": 30,
+                          "lastMileTravel": 4.0,
+                          "slaString": "25–35 MINS"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Popular Items",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "185801_1",
+                              "name": "Masala Paneer Tikka Wrap",
+                              "category": "Wraps",
+                              "description": "Spicy paneer tikka wrapped in soft paratha.",
+                              "imageId": "masala_paneer_tikka_wrap_img",
+                              "price": 19900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "500+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "185801_2",
+                              "name": "Cheese Melt Paneer Wrap",
+                              "category": "Wraps",
+                              "description": "Creamy cheese and paneer filling in a soft wrap.",
+                              "imageId": "cheese_melt_paneer_wrap_img",
+                              "price": 22900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "300+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "185801_3",
+                              "name": "Spicy Indie Chatpata Aloo Wrap",
+                              "category": "Wraps",
+                              "description": "Tangy and spicy aloo filling wrapped in paratha.",
+                              "imageId": "spicy_indie_chatpata_aloo_wrap_img",
+                              "price": 17900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "400+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "185801_4",
+                              "name": "Chatpata Double Egg Roll",
+                              "category": "Rolls",
+                              "description": "Double egg with spicy chutney in a roll.",
+                              "imageId": "chatpata_double_egg_roll_img",
+                              "price": 15900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "350+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "185801_5",
+                              "name": "Chicken Bhuna Wrap",
+                              "category": "Wraps",
+                              "description": "Spicy chicken bhuna wrapped in soft paratha.",
+                              "imageId": "chicken_bhuna_wrap_img",
+                              "price": 24900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "600+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "185801_6",
+                              "name": "Masala Chicken Tikka Wrap",
+                              "category": "Wraps",
+                              "description": "Juicy chicken tikka with masala spices in a wrap.",
+                              "imageId": "masala_chicken_tikka_wrap_img",
+                              "price": 23900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "500+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "185801_7",
+                              "name": "Egg Cheese Chicken Sausage Wrap",
+                              "category": "Wraps",
+                              "description": "Egg, cheese, and chicken sausage in a wrap.",
+                              "imageId": "egg_cheese_chicken_sausage_wrap_img",
+                              "price": 26900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "700+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "185801_8",
+                              "name": "Choco Lava Cake",
+                              "category": "Desserts",
+                              "description": "Warm chocolate cake with molten center.",
+                              "imageId": "choco_lava_cake_img",
+                              "price": 12900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "800+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "185801_9",
+                              "name": "Veg Classic Wrap with Side Mini Meal",
+                              "category": "Wraps",
+                              "description": "Classic veg wrap with a side mini meal.",
+                              "imageId": "veg_classic_wrap_with_side_mini_meal_img",
+                              "price": 29900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "650+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "185801_10",
+                              "name": "Cheese Melt Double Egg Roll",
+                              "category": "Rolls",
+                              "description": "Double egg with cheese and spicy chutney.",
+                              "imageId": "cheese_melt_double_egg_roll_img",
+                              "price": 17900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "450+"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "statusCode": 0,
+  "data": {
+    "cards": [
+      {},
+      {},
+      {},
+      {},
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "info": {
+                        "id": "200001",
+                        "name": "Sagar Sweets",
+                        "cloudinaryImageId": "sagar_sweets_nashik_img",
+                        "locality": "College Road",
+                        "areaName": "Nashik",
+                        "costForTwo": "₹200 for two",
+                        "cuisines": ["Mithai", "Street Food"],
+                        "avgRating": 4.2,
+                        "totalRatings": 2187,
+                        "sla": {
+                          "deliveryTime": 30,
+                          "lastMileTravel": 3.5,
+                          "slaString": "25–35 MINS"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Popular Items",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "200001_1",
+                              "name": "Samosa",
+                              "category": "Snacks",
+                              "description": "Crispy pastry filled with spiced potatoes.",
+                              "imageId": "samosa_img",
+                              "price": 3500,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "914"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "200001_2",
+                              "name": "Kachori",
+                              "category": "Snacks",
+                              "description": "Deep-fried pastry filled with spicy lentils.",
+                              "imageId": "kachori_img",
+                              "price": 3875,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "300"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "200001_3",
+                              "name": "Kanda Kachori",
+                              "category": "Snacks",
+                              "description": "Spicy onion-filled kachori.",
+                              "imageId": "kanda_kachori_img",
+                              "price": 4650,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "177"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "200001_4",
+                              "name": "Vada Pav",
+                              "category": "Snacks",
+                              "description": "Spicy potato fritter in a bun.",
+                              "imageId": "vada_pav_img",
+                              "price": 3500,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "462"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "200001_5",
+                              "name": "Bread Sandwich",
+                              "category": "Snacks",
+                              "description": "Simple sandwich with fresh vegetables.",
+                              "imageId": "bread_sandwich_img",
+                              "price": 3500,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "97"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

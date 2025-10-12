@@ -1,0 +1,164 @@
+{
+  "statusCode": 0,
+  "data": {
+    "cards": [
+      {},
+      {},
+      {},
+      {},
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "info": {
+                        "id": "565292",
+                        "name": "Wendy's Burgers",
+                        "cloudinaryImageId": "wendys_sample_img",
+                        "locality": "Opp BYK College, Thatte Nagar",
+                        "areaName": "Nashik",
+                        "costForTwo": "₹200 for two",
+                        "cuisines": [
+                          "American",
+                          "Burgers",
+                          "Fast Food"
+                        ],
+                        "avgRating": 4.3,
+                        "totalRatings": 2100,
+                        "sla": {
+                          "deliveryTime": 29,
+                          "lastMileTravel": 4.1,
+                          "slaString": "25-30 MINS"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "565292_1",
+                              "name": "Classic Beef Burger",
+                              "category": "Burgers",
+                              "description": "Juicy beef patty, lettuce, tomato, and special sauce.",
+                              "imageId": "classic_beef_img",
+                              "price": 22900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "1.2K+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "565292_2",
+                              "name": "Cheese Burst Burger",
+                              "category": "Burgers",
+                              "description": "Double cheese, crispy patty and melted cheddar.",
+                              "imageId": "cheese_burst_img",
+                              "price": 25900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "900+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "565292_3",
+                              "name": "Paneer Tikka Roll",
+                              "category": "Rolls",
+                              "description": "Tandoori paneer, onions, and green chutney wrapped in paratha.",
+                              "imageId": "paneer_tikka_roll_img",
+                              "price": 14900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "550+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "565292_4",
+                              "name": "Chicken Roll",
+                              "category": "Rolls",
+                              "description": "Spicy shredded chicken with mayo and onions.",
+                              "imageId": "chicken_roll_img",
+                              "price": 15900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "780+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "565292_5",
+                              "name": "Veg Fries",
+                              "category": "Sides",
+                              "description": "Crispy golden fries with a sprinkle of herbs.",
+                              "imageId": "veg_fries_img",
+                              "price": 7900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "2k+"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "565292_6",
+                              "name": "Cold Drink (500ml)",
+                              "category": "Beverages",
+                              "description": "Chilled beverage to go with your meal.",
+                              "imageId": "cold_drink_img",
+                              "price": 4900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "1.1K+"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

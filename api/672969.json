@@ -1,0 +1,142 @@
+{
+  "statusCode": 0,
+  "data": {
+    "cards": [
+      {},
+      {},
+      {},
+      {},
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "info": {
+                        "id": "672969",
+                        "name": "Subway",
+                        "cloudinaryImageId": "subway_patil_colony_nas_college_road_img",
+                        "locality": "Patil Colony, Nas College Road",
+                        "areaName": "Nashik",
+                        "costForTwo": "₹400 for two",
+                        "cuisines": ["Sandwich", "Rolls", "Fast Food"],
+                        "avgRating": 4.2,
+                        "totalRatings": 320,
+                        "sla": {
+                          "deliveryTime": 20,
+                          "lastMileTravel": 2.8,
+                          "slaString": "20–25 MINS"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Popular Items",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "672969_1",
+                              "name": "Veggie Delite Roll",
+                              "category": "Rolls",
+                              "description": "Fresh veggies wrapped in a soft flatbread.",
+                              "imageId": "veggie_delite_roll_img",
+                              "price": 1800,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "85"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "672969_2",
+                              "name": "Chicken Tikka Roll",
+                              "category": "Rolls",
+                              "description": "Spicy chicken tikka wrapped in a soft flatbread.",
+                              "imageId": "chicken_tikka_roll_img",
+                              "price": 2200,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "112"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "672969_3",
+                              "name": "Paneer Tikka Roll",
+                              "category": "Rolls",
+                              "description": "Grilled paneer marinated in spices, wrapped in a flatbread.",
+                              "imageId": "paneer_tikka_roll_img",
+                              "price": 2100,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "98"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "672969_4",
+                              "name": "Chicken Seekh Kebab Roll",
+                              "category": "Rolls",
+                              "description": "Juicy chicken seekh kebabs wrapped in a soft flatbread.",
+                              "imageId": "chicken_seekh_kebab_roll_img",
+                              "price": 2400,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "75"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "672969_5",
+                              "name": "Veg Supreme Roll",
+                              "category": "Rolls",
+                              "description": "A mix of fresh veggies and sauces wrapped in a flatbread.",
+                              "imageId": "veg_supreme_roll_img",
+                              "price": 2000,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "65"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

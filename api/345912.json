@@ -1,0 +1,142 @@
+{
+  "statusCode": 0,
+  "data": {
+    "cards": [
+      {},
+      {},
+      {},
+      {},
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "info": {
+                        "id": "345912",
+                        "name": "Kaati Zone Rolls & Wraps",
+                        "cloudinaryImageId": "kaati_zone_rolls_sharanpur_img",
+                        "locality": "Suyojit Modern Point, Sharanpur",
+                        "areaName": "Nashik",
+                        "costForTwo": "₹300 for two",
+                        "cuisines": ["Rolls", "Wraps", "Fast Food", "Desserts", "Shakes", "Beverages"],
+                        "avgRating": 4.1,
+                        "totalRatings": 674,
+                        "sla": {
+                          "deliveryTime": 30,
+                          "lastMileTravel": 3.0,
+                          "slaString": "25–35 MINS"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Popular Items",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "345912_1",
+                              "name": "Batata Vada Roll",
+                              "category": "Rolls",
+                              "description": "The iconic Mumbai street food gets a healthy twist! This unique & deli",
+                              "imageId": "batata_vada_roll_img",
+                              "price": 17500,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "150"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "345912_2",
+                              "name": "Bhuna Chicken Roll",
+                              "category": "Rolls",
+                              "description": "Chicken tossed in a spicy mix & cooked in its own juices until it is p",
+                              "imageId": "bhuna_chicken_roll_img",
+                              "price": 23900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "200"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "345912_3",
+                              "name": "Chicken Shami Roll",
+                              "category": "Rolls",
+                              "description": "The amazing Shami Kebabs now inside a paratha! These soft kebabs are a",
+                              "imageId": "chicken_shami_roll_img",
+                              "price": 24900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "180"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "345912_4",
+                              "name": "Chilli Paneer Roll",
+                              "category": "Rolls",
+                              "description": "Just the right flavour of spicy chilli paneer - a juicy Kaati roll wit",
+                              "imageId": "chilli_paneer_roll_img",
+                              "price": 19900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "220"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "345912_5",
+                              "name": "Paneer Tikka Roll",
+                              "category": "Rolls",
+                              "description": "Grilled paneer marinated in spices, wrapped in a flatbread.",
+                              "imageId": "paneer_tikka_roll_img",
+                              "price": 21000,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "190"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

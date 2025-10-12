@@ -1,0 +1,124 @@
+{
+  "statusCode": 0,
+  "data": {
+    "cards": [
+      {},
+      {},
+      {},
+      {},
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "info": {
+                        "id": "235624",
+                        "name": "KFC",
+                        "cloudinaryImageId": "kfc_college_road_nashik_img",
+                        "locality": "College Road",
+                        "areaName": "Nashik",
+                        "costForTwo": "₹450 for two",
+                        "cuisines": ["Burgers", "Fast Food", "Rolls"],
+                        "avgRating": 3.6,
+                        "totalRatings": 126,
+                        "sla": {
+                          "deliveryTime": 25,
+                          "lastMileTravel": 3.5,
+                          "slaString": "25–30 MINS"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Popular Items",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "235624_1",
+                              "name": "Double Chicken Roll",
+                              "category": "Rolls",
+                              "description": "Two pieces of tender chicken wrapped in a soft flatbread.",
+                              "imageId": "double_chicken_roll_img",
+                              "price": 1700,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "69"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "235624_2",
+                              "name": "Classic Chicken Roll",
+                              "category": "Rolls",
+                              "description": "Classic chicken filling wrapped in a soft flatbread.",
+                              "imageId": "classic_chicken_roll_img",
+                              "price": 1290,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "134"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "235624_3",
+                              "name": "Double Chicken Roll Meal for 1",
+                              "category": "Meals",
+                              "description": "Double Chicken Roll served with fries and a drink.",
+                              "imageId": "double_chicken_roll_meal_1_img",
+                              "price": 3790,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.6",
+                                  "ratingCount": "5"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "235624_4",
+                              "name": "Classic Chicken Roll Meal for 2",
+                              "category": "Meals",
+                              "description": "Classic Chicken Rolls served with fries and drinks for two.",
+                              "imageId": "classic_chicken_roll_meal_2_img",
+                              "price": 4590,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "15"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
