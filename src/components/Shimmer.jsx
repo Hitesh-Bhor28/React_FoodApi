@@ -17,43 +17,43 @@ const Shimmer = () => {
       </div>
                   <div className="res-container">
                         <div className="res-card">
-                              <h1 className="res-logo shimmer-text" alt={"img-loading"} />
+                              <h1 className="res-logo shimmer-logo" alt={"img-loading"} />
                               <h3 className='shimmer-text'>{""}</h3>
                               <h4 className='shimmer-text'>{""}</h4>
                               <h4 className='shimmer-text'>{""}</h4>
                               <h4 className='shimmer-text'>{""}</h4>
                         </div><div className="res-card">
-                              <h1 className="res-logo shimmer-text" alt={"img-loading"} />
+                              <h1 className="res-logo shimmer-logo" alt={"img-loading"} />
                               <h3 className='shimmer-text'>{""}</h3>
                               <h4 className='shimmer-text'>{""}</h4>
                               <h4 className='shimmer-text'>{""}</h4>
                               <h4 className='shimmer-text'>{""}</h4>
                         </div><div className="res-card">
-                              <h1 className="res-logo shimmer-text" alt={"img-loading"} />
+                              <h1 className="res-logo shimmer-logo" alt={"img-loading"} />
                               <h3 className='shimmer-text'>{""}</h3>
                               <h4 className='shimmer-text'>{""}</h4>
                               <h4 className='shimmer-text'>{""}</h4>
                               <h4 className='shimmer-text'>{""}</h4>
                         </div><div className="res-card">
-                              <h1 className="res-logo shimmer-text" alt={"img-loading"} />
+                              <h1 className="res-logo shimmer-logo" alt={"img-loading"} />
                               <h3 className='shimmer-text'>{""}</h3>
                               <h4 className='shimmer-text'>{""}</h4>
                               <h4 className='shimmer-text'>{""}</h4>
                               <h4 className='shimmer-text'>{""}</h4>
                         </div><div className="res-card">
-                              <h1 className="res-logo shimmer-text" alt={"img-loading"} />
+                              <h1 className="res-logo shimmer-logo" alt={"img-loading"} />
                               <h3 className='shimmer-text'>{""}</h3>
                               <h4 className='shimmer-text'>{""}</h4>
                               <h4 className='shimmer-text'>{""}</h4>
                               <h4 className='shimmer-text'>{""}</h4>
                         </div><div className="res-card">
-                              <h1 className="res-logo shimmer-text" alt={"img-loading"} />
+                              <h1 className="res-logo shimmer-logo" alt={"img-loading"} />
                               <h3 className='shimmer-text'>{""}</h3>
                               <h4 className='shimmer-text'>{""}</h4>
                               <h4 className='shimmer-text'>{""}</h4>
                               <h4 className='shimmer-text'>{""}</h4>
                         </div><div className="res-card">
-                              <h1 className="res-logo shimmer-text" alt={"img-loading"} />
+                              <h1 className="res-logo shimmer-logo" alt={"img-loading"} />
                               <h3 className='shimmer-text'>{""}</h3>
                               <h4 className='shimmer-text'>{""}</h4>
                               <h4 className='shimmer-text'>{""}</h4>
