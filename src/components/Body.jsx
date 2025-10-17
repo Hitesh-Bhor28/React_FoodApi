@@ -3,12 +3,14 @@ import RestaurantCard from './RestaurantCard';
 import './dashboard.css';
 import Shimmer from './Shimmer';
 import { Link } from 'react-router-dom';
+import useOnlineStatus from '../utils/useOnlineStatus';
 
 const Body = () => {
   const [restaurantData, setRestaurantData] = useState([]);
   const [allRestaurants, setAllRestaurants] = useState([]); // for reset
 
   const [searchQuery, setSearchQuery] = useState("");
+  const isOnline = useOnlineStatus()
 
   useEffect(() => {
     dataFetching();
@@ -62,7 +64,7 @@ const Body = () => {
       setRestaurantData(restaurantSearchData);
     }
   }
-
+  if(isOnline === false) return (<h1>Looks Like Your Are Offline</h1>) 
   return restaurantData.length === 0 ? (<Shimmer />) :
     (
       <div className="body">
@@ -82,7 +84,7 @@ const Body = () => {
         </div>
         <div className="res-container">
           {restaurantData.map((restaurant, index) => (
-            <Link to={`restaurant/${restaurant.id}`} key={restaurant.id}><RestaurantCard restaurant={restaurant} /></Link>
+            <Link to={`restaurant/${restaurant.id}`} key={restaurant.id} className="resLink"><RestaurantCard restaurant={restaurant} /></Link>
           ))}
         </div>
       </div>
