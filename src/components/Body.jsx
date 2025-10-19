@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import RestaurantCard from './RestaurantCard';
-import './dashboard.css';
+
 import Shimmer from './Shimmer';
 import { Link } from 'react-router-dom';
 import useOnlineStatus from '../utils/useOnlineStatus';
@@ -67,24 +67,24 @@ const Body = () => {
   if(isOnline === false) return (<h1>Looks Like Your Are Offline</h1>) 
   return restaurantData.length === 0 ? (<Shimmer />) :
     (
-      <div className="body">
-        <div className="filter">
+      <div className="p-0 m-0 box-border">
+        <div className="m-2.5">
 
-          <div className='search'>
-            <input type="search" onKeyUp={(e) =>{handleSearch()}} onChange={(e) => { setSearchQuery(e.target.value.toLowerCase()) }} />
-            <button type="button" onClick={handleSearch}>Search</button>
+          <div className='mb-3.5'>
+            <input type="search" className="border border-gray-400 p-1 rounded focus:border-blue-500 focus:ring-1 focus:ring-blue-500 outline-none" onKeyUp={(e) =>{handleSearch()}} onChange={(e) => { setSearchQuery(e.target.value.toLowerCase()) }} />
+            <button type="button" className='ml-6 border-2 border-black text-white bg-black p-1.5 hover:bg-white hover:text-black' onClick={handleSearch}>Search</button>
           </div>
 
-          <button className="filter-btn" onClick={handleFilter}>
+          <button className="cursor-pointer" onClick={handleFilter}>
             Top Rated Restaurants
           </button>
-          <button className="filter-btn" onClick={handleReset}>
+          <button className="cursor-pointer" onClick={handleReset}>
             Reset
           </button>
         </div>
-        <div className="res-container">
+        <div className="flex flex-wrap">
           {restaurantData.map((restaurant, index) => (
-            <Link to={`restaurant/${restaurant.id}`} key={restaurant.id} className="resLink"><RestaurantCard restaurant={restaurant} /></Link>
+            <Link to={`restaurant/${restaurant.id}`} key={restaurant.id} className="text-black block list-none"><RestaurantCard restaurant={restaurant} /></Link>
           ))}
         </div>
       </div>

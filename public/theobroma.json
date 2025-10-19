@@ -1,0 +1,189 @@
+{
+  "statusCode": 0,
+  "data": {
+    "cards": [
+      {},
+      {},
+      {},
+      {},
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "info": {
+                        "id": "278323",
+                        "name": "Theobroma",
+                        "cloudinaryImageId": "abc123xyz",
+                        "locality": "Kalpataru Nagar",
+                        "areaName": "Nashik",
+                        "costForTwo": "₹400 for two",
+                        "cuisines": [
+                          "Bakery",
+                          "Desserts",
+                          "Snacks"
+                        ],
+                        "avgRating": 4.6,
+                        "totalRatings": 2400,
+                        "deliveryTime": "30 mins"
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1",
+                              "name": "Chocolate Roll",
+                              "category": "Desserts",
+                              "description": "Soft chocolate roll filled with cream.",
+                              "imageId": "49a63a0889661fd440dedca01436f374",
+                              "price": 19900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "2",
+                              "name": "Paneer Tikka Roll",
+                              "category": "Rolls",
+                              "description": "Grilled paneer wrapped in soft paratha.",
+                              "imageId": "fyhlh3hjuuozraxgppsf",
+                              "price": 22900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "3",
+                              "name": "Chicken Roll",
+                              "category": "Rolls",
+                              "description": "Juicy chicken with spicy mayo wrapped in roll.",
+                              "imageId": "280265cc41db223c05f999118c664ca3",
+                              "price": 24900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Italian",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "4",
+                              "name": "Vanilla Roll",
+                              "category": "Desserts",
+                              "description": "Delicious vanilla roll with cream.",
+                              "imageId": "49a63a0889661fd440dedca01436f374",
+                              "price": 18900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "5",
+                              "name": "Cheese Roll",
+                              "category": "Snacks",
+                              "description": "Cheesy roll with crispy layers.",
+                              "imageId": "fyhlh3hjuuozraxgppsf",
+                              "price": 20900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "title": "Specials",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "6",
+                              "name": "Chicken Cheese Roll",
+                              "category": "Rolls",
+                              "description": "Special chicken roll with cheese.",
+                              "imageId": "280265cc41db223c05f999118c664ca3",
+                              "price": 25900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "7",
+                              "name": "Chocolate Brownie Roll",
+                              "category": "Desserts",
+                              "description": "Chocolate brownie wrapped in soft roll.",
+                              "imageId": "49a63a0889661fd440dedca01436f374",
+                              "price": 21900,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

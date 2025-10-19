@@ -1,5 +1,5 @@
 import React from 'react';
-
+import '../shimmer.css'
 const ResMenuShimmer = () => {
   return (
     <>    <div className="shimmer-container">
